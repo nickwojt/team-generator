@@ -1,0 +1,14 @@
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 100%;
+  min-height: 10rem;
+  background-color: rosybrown;
+}
+
+.header {
+  color: white;
+  font-size: 5rem;
+  font-weight: bold;
+}
