@@ -221,6 +221,10 @@ function anotherMember() {
 }
 
 function generateHTML() {
+  function writeToFile() {
+    fs.writeFile("./dist/index.html");
+  }
+
   console.log(employees);
   const filterManager = employees.filter((em) => em.getRole() === "Manager");
 
