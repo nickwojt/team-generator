@@ -4,6 +4,10 @@
 
 This project uses node.js along with js to dynamically create an html webpage with cards of team members created from inquirer prompts.
 
+Link to Walkthrough Video: https://drive.google.com/file/d/1TJyrx88Ktj0z2I1ihf_z3t7Y5vNwebfC/view
+
+SAMPLE HTML FILE IN dist FOLDER
+
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
